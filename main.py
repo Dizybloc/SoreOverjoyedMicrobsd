@@ -1,3 +1,4 @@
+import pygame
 pygame.init()
 screen_info = pygame.display.Info()
 size = (width, height) = (screen_info.current_w, screen_info.current_h)
